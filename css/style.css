@@ -27,3 +27,16 @@ hr {
  background-color: rgb(83, 188, 156);
  border-color: rgb(78, 181, 142);
 }
+
+.ms_footer-top {
+ background-color: #3a546d;
+}
+
+.ms_footer-bottom {
+ height: 100px;
+ background-color: #2c3e50;
+}
+
+.ms_fontsize {
+ font-size: 12px;
+}
