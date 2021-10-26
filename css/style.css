@@ -21,3 +21,9 @@ hr {
  margin: 0 10px;
  max-width: 150px;
 }
+
+.btn_ms-colorbutton {
+ color: white;
+ background-color: rgb(83, 188, 156);
+ border-color: rgb(78, 181, 142);
+}
